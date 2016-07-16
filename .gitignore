@@ -1,5 +1,4 @@
-_drafts/
-_site
+deploy.sh
 .sass-cache
 .DS_Store
 *.swp
